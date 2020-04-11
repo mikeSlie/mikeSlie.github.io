@@ -1,0 +1,54 @@
+@charset "utf-8";
+body {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 1.2em;
+	background-color: rgba(204,206,219,1.00);
+	
+}
+.container-fluid {
+}
+
+
+
+h2 {
+	color: rgba(3,3,3,1.00);
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-size: 1.4em;
+	line-height: 1.6em;
+}
+h1 {
+	color: rgba(0,0,0,1.00);
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-size: 1.6em;
+}
+#card0 img {
+	width: 400px;
+	background-color: rgba(247,243,243,1.00);
+	border: medium solid rgba(87,87,87,1.00);
+}
+
+#card0 table {
+	background-color: rgba(202,173,231,1.00);
+
+
+
+}
+
+#card0 table tbody tr th {
+	text-align: center;
+	width: 100px;
+}
+#card0 table tbody tr td  {
+	left: 0px;
+	background-color: rgba(204,206,219,1.00);
+	padding-left: 2px;
+	padding-top: 2px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	border: thick solid rgba(202,173,231,1.00);
+}
+
+
+#menu {
+
+}
