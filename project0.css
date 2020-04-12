@@ -36,7 +36,9 @@ h1 {
 
 #card0 table tbody tr th {
 	text-align: center;
-	width: 100px;
+	width: auto;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 #card0 table tbody tr td  {
 	left: 0px;
