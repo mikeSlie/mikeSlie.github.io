@@ -24,7 +24,6 @@ h1 {
 }
 
 #habitat {
-	background-color: blue;
 }
 
 
@@ -56,11 +55,9 @@ h1 {
 }
 
 #picture {
-	background-color: green;
 	box-sizing: inherit;
 }
 
 #menu {
 
-	background-color:red;
 }
